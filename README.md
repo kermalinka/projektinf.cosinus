@@ -1,1 +1,1 @@
-# kermalinkaprojektinfcosinus.io
+# kermalinkaprojektinfcosinus.github.io
